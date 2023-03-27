@@ -1,4 +1,4 @@
- 
+<div align="center"><h1 style="font-weight: bold;">LICENSE TO USE<br>TEAM CUBITOS MC</h1></div>
 
 HELLO USER!
 The use license comes into effect from the moment you download, use or share any content from TEAM CUBITOS MC. We make this document available to you in a public manner and inform you that we can make changes at any time without any notification, only by publishing the changes in this document hosted on our official website.
