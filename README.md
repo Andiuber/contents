@@ -1,4 +1,6 @@
-<div align="center"><h1 style="font-weight: bold;">LICENSE TO USE<br>TEAM CUBITOS MC</h1></div>
+<div align="center">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiegpJ08fVk0afAXxOFQpRTxDCpkeFambrkoIAli42BmGQDahfS9OZZcBuptRkuWVwkMixfw-xurHAa08rlQoCL3JTpNalTolsctLV2rYE75kP_PlCXqZHyZSxalV4Yug-LWtM040Drskma0qzfYIIGSMSC3t52wn5ACxFHXr0HSSA_ZPNgr1VhfJxalg=s1600" style="whidt:120px; height:120px;">
+<h1 style="font-weight: bold;">LICENSE TO USE<br>TEAM CUBITOS MC</h1></div>
 
 HELLO USER!
 The use license comes into effect from the moment you download, use or share any content from TEAM CUBITOS MC. We make this document available to you in a public manner and inform you that we can make changes at any time without any notification, only by publishing the changes in this document hosted on our official website.
